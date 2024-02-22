@@ -9,45 +9,5 @@
       color: white; /* Set text color to white for contrast */
     }
   </style>
-  <script>
-    // Function to parse the list of episodes from the text file
-    function parseEpisodeList() {
-      fetch('assets/episodelist.txt')
-        .then(response => response.text())
-        .then(data => {
-          const episodes = data.split('\n').map(line => JSON.parse(line.trim()));
-          updateMetaTags(episodes);
-        })
-        .catch(error => console.error('Error fetching episode list:', error));
-    }
-
-    // Function to update the meta tags based on the episode list
-    function updateMetaTags(episodes) {
-      const urlParams = new URLSearchParams(window.location.search);
-      const episodeNumber = urlParams.get('episode');
-      const episode = episodes[episodeNumber - 1];
-
-      if (episode) {
-        if (episode.JN || episode.EN_S || episode.EN_D) {
-          const videoUrl = episode.JN ? episode.JN : episode.EN_S ? episode.EN_S : episode.EN_D;
-          document.querySelector('meta[property="og:video:url"]').setAttribute('content', videoUrl);
-        } else {
-          document.querySelector('meta[property="og:video:url"]').setAttribute('content', 'assets/none.mp4');
-        }
-
-        if (episode.JN_T || episode.EN_T) {
-          const imageUrl = episode.JN_T ? episode.JN_T : episode.EN_T;
-          document.querySelector('meta[property="og:image"]').setAttribute('content', imageUrl);
-        } else {
-          document.querySelector('meta[property="og:image"]').setAttribute('content', 'assets/none.jpg');
-        }
-      } else {
-        console.error('Episode not found');
-      }
-    }
-
-    // Call the parseEpisodeList function when the script is loaded
-    parseEpisodeList();
-  </script>
 </head>
 </html>
