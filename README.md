@@ -12,5 +12,5 @@ If you want to embed these episodes in messaging services, you can link this web
 <br>***EXAMPLE:***
 <br>(insert image here)
 ### Website
-If you go to the main website, you will see an episode list with the episode number, episode name (in JP/EN), and the JP, Subbed, and Dubbed versions will be available on the side.
-<br>(insert image here)
+If you go to the main website, you will see an episode list with the episode number, episode name (in JP/EN), and the JP, Subbed, and Dubbed versions will be linked below them.
+<br><a href="https://pokermmon.github.io"><img src="https://i.ibb.co/SQd5Qg0/horizonswebsite1.png" height=750px></a>
