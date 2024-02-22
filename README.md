@@ -10,7 +10,7 @@ This is a website to easily access Pokémon Horizons episodes in Japanese, Subbe
 ### Messaging Services
 If you want to embed these episodes in messaging services, you can link this website (https://pokermmon.github.io) then afterwards, enter a slash, then specify if its jp, en_s, or en_d, then another slash and the episode number. Once sent, this will embed a video link to the video with the thumbnail (if both are available).
 <br>***EXAMPLE:***
-<br>(insert image here)
+<br><a href="https:/pokermmon.github.io/episodes"><img src="assets/horizonsembed.gif"></a>
 ### Website
 If you go to the main website, you will see an episode list with the episode number, episode name (in JP/EN), and the JP, Subbed, and Dubbed versions will be linked below them.
 <br><a href="https://pokermmon.github.io"><img src="https://i.ibb.co/2Kpyxcm/horizonswebsite2.png" height=750px></a>
