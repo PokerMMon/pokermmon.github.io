@@ -32,14 +32,14 @@
           const videoUrl = episode.JN ? episode.JN : episode.EN_S ? episode.EN_S : episode.EN_D;
           document.querySelector('meta[property="og:video:url"]').setAttribute('content', videoUrl);
         } else {
-          document.querySelector('meta[property="og:video:url"]').setAttribute('content', 'videos/none.mp4');
+          document.querySelector('meta[property="og:video:url"]').setAttribute('content', 'assets/none.mp4');
         }
 
         if (episode.JN_T || episode.EN_T) {
           const imageUrl = episode.JN_T ? episode.JN_T : episode.EN_T;
           document.querySelector('meta[property="og:image"]').setAttribute('content', imageUrl);
         } else {
-          document.querySelector('meta[property="og:image"]').setAttribute('content', 'images/none.jpg');
+          document.querySelector('meta[property="og:image"]').setAttribute('content', 'assets/none.jpg');
         }
       } else {
         console.error('Episode not found');
