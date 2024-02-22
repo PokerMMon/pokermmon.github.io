@@ -3,7 +3,7 @@ This is a website to easily access Pokémon Horizons episodes in Japanese, Subbe
 <br>This repository does not include every current episode, but is instead uploaded on an alternative site.
 <br>Episodes were obtained from https://huggingface.co/PokerMon/PokemonHorizons and uploaded to a file sharing service.
 ## Features
-- Japanese episodes from the PokemonCoJP YouTube channel (OR TV Tokyo)
+- Japanese episodes from the PokemonCoJP YouTube channel (AND TV Tokyo)
 - English Subbed episodes from a random website I found
 - English Dubbed episodes from BBC iPlayer (currently, dunno about Netflix)
 ## How to Use
@@ -13,4 +13,4 @@ If you want to embed these episodes in messaging services, you can link this web
 <br><a href="https:/pokermmon.github.io/episodes"><img src="assets/horizonsembed.gif"></a>
 ### Website
 If you go to the main website, you will see an episode list with the episode number, episode name (in JP/EN), and the JP, Subbed, and Dubbed versions will be linked below them.
-<br><a href="https://pokermmon.github.io"><img src="https://i.ibb.co/2Kpyxcm/horizonswebsite2.png" height=750px></a>
+<br><a href="https://pokermmon.github.io"><img src="https://i.ibb.co/2Kpyxcm/horizonswebsite2.png" height=500px width=400px></a>
