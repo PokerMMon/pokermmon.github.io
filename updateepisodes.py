@@ -84,9 +84,9 @@ def create_folders_and_html():
             link = episode[directory]
             thumbnail_link = episode["JN_T"] if directory in ["JN", "EN_S"] else episode["EN_T"]
             if link == "N/A":
-                link = "assets/none.mp4"
+                link = "/assets/none.mp4"
             if thumbnail_link == "N/A":
-                thumbnail_link = "assets/none.jpg"
+                thumbnail_link = "/assets/none.jpg"
             folder_path = os.path.join(folder_directory, directory, number)
             if not os.path.exists(folder_path):
                 os.makedirs(folder_path)
