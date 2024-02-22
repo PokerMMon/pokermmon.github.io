@@ -82,7 +82,7 @@ def create_folders_and_html():
         for episode in episodes:
             number = episode["number"]
             link = episode[directory]
-            thumbnail_link = episode["JN_T"] if directory == "EN_S" else episode["EN_T"]
+            thumbnail_link = episode["JN_T"] if directory in ["JN", "EN_S"] else episode["EN_T"]
             if link == "N/A":
                 link = "assets/none.mp4"
             if thumbnail_link == "N/A":
