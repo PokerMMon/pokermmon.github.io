@@ -70,8 +70,8 @@ def create_folders_and_html():
     with open(main_index_folder_path, "w") as main_index_html_file:
         main_index_html_file.write(main_index_html_content)
     
-    for directory in ["JN", "EN_S", "EN_D"]:
-        # Create index.html in JN, EN_S, and EN_D directories
+    for directory in ["JN", "EN_S", "EN_D", "EN_U"]:
+        # Create index.html in JN, EN_S, EN_D, and EN_U directories
         index_folder_path = os.path.join(folder_directory, directory)
         index_html_path = os.path.join(index_folder_path, "index.html")
         if not os.path.exists(index_folder_path):
@@ -82,7 +82,7 @@ def create_folders_and_html():
         for episode in episodes:
             number = episode["number"]
             link = episode[directory]
-            thumbnail_link = episode["JN_T"] if directory in ["JN", "EN_S"] else episode["EN_T"]
+            thumbnail_link = episode["EN_T"] if directory in ["EN_S", "EN_D", "EN_U"] else episode["JN_T"]
             if link == "N/A":
                 link = "/assets/none.mp4"
             if thumbnail_link == "N/A":
