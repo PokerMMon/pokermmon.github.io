@@ -372,10 +372,19 @@
     {
       "number": "42",
       "JN": "https://ia600507.us.archive.org/31/items/PokemonHorizonsJP/Horizons42.mp4",
-      "EN_S": "N/A",
+      "EN_S": "https://ia600507.us.archive.org/31/items/PokemonHorizonsJP/Subbbed/Horizons42.mp4",
       "EN_D": "N/A",
       "EN_U": "N/A",
       "JN_T": "https://i.ibb.co/FzP9L9y/Horizons42.jpg",
+      "EN_T": "N/A"
+    }
+    {
+      "number": "43",
+      "JN": "https://ia600507.us.archive.org/31/items/PokemonHorizonsJP/Horizons43.mp4",
+      "EN_S": "N/A",
+      "EN_D": "N/A",
+      "EN_U": "N/A",
+      "JN_T": "https://i.ibb.co/BrndKrp/Ach-SJd-YAea-U-HD.jpg",
       "EN_T": "N/A"
     }
   ]
