@@ -15,5 +15,5 @@ If you want to embed these episodes in messaging services, you can link this web
 If you go to the main website, you will see an episode list with the episode number, episode name (in JP/EN), and the JP, Subbed, and Dubbed versions will be linked below them.
 <br><a href="https://pokermmon.github.io"><img src="assets/horizonswebsite.png" height=500px width=400px></a>
 ### Website (Websim.ai)
-This is a way better looking website, created mostly using Claude Sonnet 3.5. It is the same premisis as the github.io site, but with a better looking site (and a video player on the side!)
-<br><a href="https://websim.ai/@MurfeeW/pokemonhorizonsepisodes"><img src="assets/websimSS.png" height=400px width=500px></a>
+This was created mostly using Claude Sonnet 3.5. It is the same premisis as the github.io site, but significantly better than the github site (plus it has a video player on the side!)
+<br><a href="https://websim.ai/@MurfeeW/pokemonhorizonsepisodes"><img src="assets/websimSS.png" height=400px width=600px></a>
