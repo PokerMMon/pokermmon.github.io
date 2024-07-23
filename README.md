@@ -16,4 +16,4 @@ If you go to the main website, you will see an episode list with the episode num
 <br><a href="https://pokermmon.github.io"><img src="assets/horizonswebsite.png" height=500px width=400px></a>
 ### Website (Websim.ai)
 This was created mostly using Claude Sonnet 3.5. It is the same premisis as the github.io site, but significantly better than the github site (plus it has a video player on the side!)
-<br><a href="https://websim.ai/@MurfeeW/pokemonhorizonsepisodes"><img src="assets/websimSS.png" height=400px width=600px></a>
+<br><a href="https://websim.ai/@MurfeeW/pokemonhorizonsepisodes"><img src="assets/websimSS.png" height=400px width=700px></a>
