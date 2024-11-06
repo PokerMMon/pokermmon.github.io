@@ -1,7 +1,9 @@
 # POKÉMON HORIZONS: THE SERIES Episode List
 This is a website to easily access Pokémon Horizons episodes in Japanese, Subbed and Dubbed in English!
 <br>This repository does not include every current episode, but is instead uploaded on an alternative site.
-<br>Episodes were obtained from https://archive.org/details/PokemonHorizonsJP and https://archive.org/details/PokemonHorizonsEN_BBC
+<br>Episodes were obtained from these links:
+- https://archive.org/details/PokemonHorizonsJP
+- https://archive.org/details/PokemonHorizonsEN_BBC
 <br><b>NOTE:</b> These episodes only go up to episode 67 for now, as the Internet Archive doesn't allow uploading at this time.
 ## Features
 - Japanese episodes uploaded to YouTube (for approx. a week per episode)
