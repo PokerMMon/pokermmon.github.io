@@ -9,11 +9,11 @@ This is a website to easily access Pokémon Horizons episodes in Japanese, Subbe
 - English Subbed episodes from a random website I found
 - English Dubbed episodes from BBC iPlayer (currently, dunno about Netflix)
 ## How to Use
-### Messaging Services
+### Messaging Services (NOT BEING MAINTAINED)
 If you want to embed these episodes in messaging services, you can link this website (https://pokermmon.github.io) then afterwards, enter a slash, then specify if its jp, en_s, or en_d, then another slash and the episode number. Once sent, this will embed a video link to the video with the thumbnail (if both are available).
 <br>***EXAMPLE:***
 <br><a href="https://pokermmon.github.io/episodes"><img src="assets/horizonsembed.gif"></a>
-### Website
+### Website (NOT BEING MAINTAINED)
 If you go to the main website, you will see an episode list with the episode number, episode name (in JP/EN), and the JP, Subbed, and Dubbed versions will be linked below them.
 <br><a href="https://pokermmon.github.io"><img src="assets/horizonswebsite.png" height=500px width=400px></a>
 ### Website (Websim.ai)
