@@ -2,7 +2,7 @@
 This is a website to easily access Pokémon Horizons episodes in Japanese, Subbed and Dubbed in English!
 <br>This repository does not include every current episode, but is instead uploaded on an alternative site.
 <br>Episodes were obtained from these links:
-<br>- https://archive.org/details/PokemonHorizonsJP
+<br>- https://archive.org/details/PokemonHorizonsJP [DELETED BY TPC]
 <br>- https://archive.org/details/PokemonHorizonsEN_BBC
 ## Features
 - Japanese episodes uploaded to YouTube (for approx. a week per episode)
