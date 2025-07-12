@@ -1,5 +1,5 @@
 # NOTE
-This repository is no longer being maintained due to TPC taking down the main archive silently from the Internet Archive without an email being sent that said it was removed. Due to this, I won't be able to provide the episodes any longer. The original details of the repository can be seen below.
+This repository is no longer being maintained due to TPC taking down the main archive silently from the Internet Archive without an email being sent that said it was removed. Due to this, I won't be able to provide the episodes any longer. The original details of the repository can be seen below, and you can look back at the old commits to see how this was originally maintained.
 # POKÉMON HORIZONS: THE SERIES Episode List
 This is a website to easily access Pokémon Horizons episodes in Japanese, Subbed and Dubbed in English!
 <br>This repository does not include every current episode, but is instead uploaded on an alternative site.
