@@ -4,6 +4,8 @@ This is a website to easily access Pokémon Horizons episodes in Japanese, Subbe
 <br>Episodes were obtained from these links:
 <br>- https://archive.org/details/PokemonHorizonsJP [DELETED BY TPC]
 <br>- https://archive.org/details/PokemonHorizonsEN_BBC
+# NOTE
+This repository is no longer being maintained due to TPC taking down the archive silently from the Internet Archive without an email being sent that said it was removed. Due to this, I won't be able to provide the episodes any longer.
 ## Features
 - Japanese episodes uploaded to YouTube (for approx. a week per episode)
 - English Subbed episodes from a random website I found
@@ -16,6 +18,6 @@ If you want to embed these episodes in messaging services, you can link this web
 ### Website (NOT BEING MAINTAINED)
 If you go to the main website, you will see an episode list with the episode number, episode name (in JP/EN), and the JP, Subbed, and Dubbed versions will be linked below them.
 <br><a href="https://pokermmon.github.io"><img src="assets/horizonswebsite.png" height=500px width=400px></a>
-### Website (Websim.ai)
+### Website (Websim.ai) (NOT BEING MAINTAINED)
 This was created mostly using Claude Sonnet 3.5. It is the same premisis as the github.io site, but significantly better than the github site (plus it has a video player on the side!)
 <br><a href="https://websim.ai/@MurfeeW/pokemonhorizonsepisodes"><img src="assets/websimSS.png" height=400px width=700px></a>
